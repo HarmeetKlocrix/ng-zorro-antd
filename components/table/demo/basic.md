@@ -1,7 +1,7 @@
 ---
 order: 0
 title:
-  en-US: Basic Usage
+  en-US: Basic Usage of lund
   zh-CN: 基本用法
 ---
 
